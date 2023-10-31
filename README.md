@@ -7,7 +7,7 @@ Popcorn Clicker Is A game where you click on the popcorn and pop the popcorn whi
 don’t judge but I would love feedback. Here’s information on it. if you want information then here's the website
 sites.google.com/view/memergames
 if you want quick information i'll update it here
-Ongoing Updates: Dividing popcorn click by 15 to be more realistic but still playable.
+Ongoing Updates: Dividing popcorn click by 15, Replacing html file with turbowarp packed file.
 Current Version: BETA
 Latest Updates:
 Update date Goal: Nov 1
