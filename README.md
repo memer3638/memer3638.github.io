@@ -9,5 +9,5 @@ sites.google.com/view/memergames
 if you want quick information i'll update it here
 Ongoing Updates: Dividing popcorn click by 15, Replacing html file with turbowarp packed file.
 Current Version: BETA
-Latest Updates:
-Update date Goal: Nov 1
+Latest Updates: now 15 Popcorn=1 Bag to sell
+Update date Goal:
